@@ -1,0 +1,5 @@
+rng_seed: 2026  # initialization seed for random number generator
+Delta_T: 10     # step size of environment
+H: 400         # number of environment steps
+c_f: 10         # campaign/mobilization/fixed cost
+n_comps: 2      # fallback number of components that compose the system

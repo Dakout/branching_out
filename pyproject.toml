@@ -1,0 +1,19 @@
+[project]
+name = "github-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "deap>=1.4.4",
+    "dill>=0.4.1",
+    "erauq>=0.0.1.dev1",
+    "h5py>=3.16.0",
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.10.9",
+    "numpy>=2.2.6",
+    "pathos>=0.3.5",
+    "pyyaml>=6.0.3",
+    "scipy>=1.15.3",
+    "tqdm>=4.68.4",
+]

@@ -1,0 +1,13 @@
+rng_seed: 2026        # overwritten by system
+Delta_T: 10           # overwritten by system
+c_v: 10               # preventive variable cost
+c_c: 100              # corrective cost
+B: 1000               # parallel batch
+
+# RUL params
+dist_type: "normal"   # dist types with mean & sigma are [binomial, frechet, gamma, gumbel, gumbelMin, lognormal, negativebinomial, normal, pareto, weibull]
+mu_TF: 225            # mean failure time
+sigma_TF: 40          # std failure time
+sig_int_factor: 15    # factor defining integration/optimization range
+corr_len: 50          # error correlation length
+sigma_lnerr: 0.4      # std of logarithmic error

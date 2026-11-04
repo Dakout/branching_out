@@ -1,0 +1,5 @@
+iaccr: 1.0e-5             # integration relative accuracy
+oacca: 5.0e-4             # optimization absolute accuracy
+maxiter: 20               # maximum optimizater iterations
+minpf: 1.0e-15
+bfgs_eps: 0.01
