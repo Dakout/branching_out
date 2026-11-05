@@ -11,7 +11,6 @@ This project implements various predictive maintenance policies for managing rep
 1. Prerequisites
 
     The most straightforward way to get the project up and running on your machine is to use the 'uv' manager. The code was developed on python 3.10; the package requirements can be found in the .toml and .lock files. 
-
     To install uv on your device, please visit [docs.astral.sh/uv/getting-started/installation/](https://docs.astral.sh/uv/getting-started/installation/).
 
 2. Clone the repository
