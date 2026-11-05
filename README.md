@@ -14,13 +14,12 @@ This project implements various predictive maintenance policies for managing rep
 
     To install uv on your device, please visit [docs.astral.sh/uv/getting-started/installation/](https://docs.astral.sh/uv/getting-started/installation/).
 
-2. Clone the repository:
+2. Clone the repository
    ```bash
    git clone https://github.com/Dakout/branching_out.git
    cd branching_out
 
 3. Set up the environment
-    Run:
     ```bash
     uv sync --locked
 
