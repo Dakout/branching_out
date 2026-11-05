@@ -57,5 +57,3 @@ If you find it useful for your research, please consider citing it:
 }
 ```
 (Feel free to also give the project a star on GitHub if you like it.)
-
----
