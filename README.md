@@ -40,7 +40,7 @@ I tried to document my code extensively and give the used functions expressive n
 ## Project Information
 - **Authors:** Daniel Koutas, Daniel Straub
 - **Organization:** ERA Group, TUM 
-- **Publication:** Koutas, D., & Straub, D. (2026). Branching out: Prognostics-Based Replacement Policies for Series Systems. arXiv preprint [arXiv:2607.27899](https://arxiv.org/abs/2607.27899).
+- **Publication:** Koutas, D., & Straub, D. (2026). Branching Out: Prognostics-Based Replacement Policies for Series Systems. arXiv preprint [arXiv:2607.27899](https://arxiv.org/abs/2607.27899).
 
 ---
 
@@ -50,7 +50,7 @@ If you find it useful for your research, please consider citing it:
 **BibTeX Entry:**
 ```bibtex
 @article{koutas2026branching,
-  title={Branching out: Prognostics-Based Replacement Policies for Series Systems},
+  title={Branching Out: Prognostics-Based Replacement Policies for Series Systems},
   author={Koutas, Daniel and Straub, Daniel},
   journal={arXiv preprint arXiv:2607.27899},
   year={2026}
